@@ -21,9 +21,7 @@ Case 3: PRODSUP-003:
 ====================
 * [mail-3.txt](https://github.com/cloudsystec/CrossOver-task/blob/master/mail-3.txt)
 
-
-[video for Case 1 and 2 ] (https://github.com/cloudsystec/CrossOver-task/blob/master/Daniel-video.webm)
-======================================
+* [video for Case 1 and 2 ](https://github.com/cloudsystec/CrossOver-task/blob/master/Daniel-video.webm)
 
 * gitHub:
 https://github.com/cloudsystec
@@ -31,8 +29,10 @@ https://github.com/cloudsystec
 * circleCI:
 https://circleci.com/gh/cloudsystec
 
-======================================
 in case of any question please contact:
-Daniel E. Lucia
-Skype: daniel.espindola.l
-cloudsysweb.com
+
+ Daniel E. Lucia
+ 
+ Skype: daniel.espindola.l
+ 
+ cloudsysweb.com
